@@ -1,3 +1,4 @@
+![logo](https://github.com/24Amol/24Amol/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Amol Pawar</h1>
 <h3 align="center">A passionate frontend Developer from India</h3>
 
