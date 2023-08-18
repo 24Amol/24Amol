@@ -8,25 +8,10 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
-</div>
-
-###
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=24Amol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=true&custom_title=C++ || CORE JAVA || HTML || CSS || " height="165" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=24Amol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=24Amol&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
 ###
@@ -82,14 +67,6 @@
 <br clear="both">
 
 <div align="center">
-  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
   <img height="355" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 </div>
 
@@ -133,24 +110,8 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/24Amol/count.svg?"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>
 
 ###
@@ -159,14 +120,6 @@
   <a href="https://open.spotify.com/user/31yyfo22lfxd6i7tvgahjyvrnu4a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>
 
 ###
