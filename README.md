@@ -8,10 +8,25 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=24Amol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=outrun&hide_border=true&custom_title=C++ || CORE JAVA || HTML || CSS || " height="165" alt="languages graph"  />
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=24Amol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=outrun&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=24Amol&locale=en&mode=daily&theme=outrun&hide_border=false&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
 
 ###
@@ -67,6 +82,14 @@
 <br clear="both">
 
 <div align="center">
+  <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img height="355" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 </div>
 
@@ -104,14 +127,26 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img height="250" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/24Amol/24Amol/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img height="" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
 
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/24Amol/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>
 
 ###
@@ -124,10 +159,24 @@
 
 ###
 
+<div align="center">
+  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
+
+###
+
 <img align="left" height="55" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  />
 
 ###
 
 <h2 align="center">Thanks for Visiting</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
 
 ###
