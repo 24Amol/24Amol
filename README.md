@@ -2,11 +2,11 @@
 
 ###
 
-<img align="left" height="350" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"  />
+<img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
 
 ###
 
-<img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
+<img align="left" height="350" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"  />
 
 ###
 
@@ -119,21 +119,19 @@
 
 ###
 
-<img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"  />
-
-###
-
-<div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
   <img height="24" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
 </div>
+
+###
+
+<img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif"  />
+
+###
+
+<img align="right" height="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
 ###
 
@@ -175,18 +173,10 @@
 
 ###
 
+<img align="left" height="124" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  />
+
+###
+
 <h2 align="center">Thanks for Visiting</h2>
-
-###
-
-<img align="left" height="55" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
-</div>
 
 ###
